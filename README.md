@@ -1,4 +1,4 @@
-# YouTube + Instagram Auto-Uploader
+#YouTube + Instagram Auto-Uploader
 
 ![License](https://img.shields.io/github/license/Abhinavkumar-07/youtube-instagram-auto-uploader)
 ![Last Commit](https://img.shields.io/github/last-commit/Abhinavkumar-07/youtube-instagram-auto-uploader)
